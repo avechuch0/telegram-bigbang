@@ -7,6 +7,7 @@ import configparser
 import datetime
 import asyncio
 import sqlite3
+from sqlite3 import Error
 import time
 import sys
 
